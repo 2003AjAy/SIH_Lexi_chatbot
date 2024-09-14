@@ -1,1 +1,1 @@
-# SIH_Lexi_chatbot
+# Image-Processing-ChatBot
