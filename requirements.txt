@@ -1,7 +1,0 @@
-streamlit
-opencv-python-headless
-Pillow
-pytesseract
-numpy
-typing
-tesseract
